@@ -14,6 +14,6 @@ npm run dev
 
 - [Ma veille sur Three.js](https://www.are.na/nicolas-tilly/three-js-r3f)
 
-## Authors
+## Auteur
 
 - [@nicolastilly](https://nicolastilly.fr/)
