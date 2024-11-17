@@ -1,7 +1,7 @@
 npm run dev
 
 # r3f-drei starter
-A boilerplate to build R3F projects
+Mon starter r3f pour démarrer un nouveau projet !
 
 ```
 npm install
