@@ -10,7 +10,7 @@ npm install
 npm run dev
 ```
 
-## 🔗 Liens
+## Liens
 
 - [Ma veille sur Three.js](https://www.are.na/nicolas-tilly/three-js-r3f)
 
